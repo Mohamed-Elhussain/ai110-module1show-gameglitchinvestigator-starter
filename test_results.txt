@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.9.6, pytest-8.4.2, pluggy-1.6.0
+rootdir: /Users/elhoseiny/Desktop/ai110-module1show-gameglitchinvestigator-starter
+configfile: pytest.ini
+testpaths: tests
+collected 11 items
+
+tests/test_game_logic.py ...........                                     [100%]
+
+============================== 11 passed in 0.01s ==============================
