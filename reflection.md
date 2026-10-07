@@ -3,6 +3,9 @@
 Answer each question in 3 to 5 sentences. Be specific and honest about what actually happened while you worked. This is about your process, not trying to sound perfect.
 
 ## 1. What was broken when you started?
+Wrong hints
+New game doesn't reset the game
+8 attempts should be allowed but the game tells you that you lose if you've done less
 
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
@@ -23,8 +26,11 @@ Document at least 3 bugs you found. Add rows as needed.
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
+Claude and Claude Code
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
+AI Suggested also fixing the counts for me and AI was true about that, I fixed the function and verified it with AI.
 - Give one example of an AI suggestion you did not accept as written (including what the AI suggested, why you rejected or changed it, and how you verified your version). It does not have to be a suggestion that was wrong: over-engineered, out of scope, harder to read, or a poor fit for this codebase all count.
+AI wanted to change a little bit of the code or the structure of the game but I didn't accept that.
 
 ---
 
@@ -47,5 +53,6 @@ Document at least 3 bugs you found. Add rows as needed.
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+  I should always tell the AI to just do what I want and not change the overall structure.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
